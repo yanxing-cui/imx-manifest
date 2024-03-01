@@ -35,6 +35,6 @@
      <linkfile src="tools/imx-setup-release.sh" dest="imx-setup-release.sh"/>
      <linkfile src="README" dest="README-IMXBSP"/>
   </project>
-  <project name="meta-nxp-demo-experience" path="sources/meta-nxp-demo-experience" remote="nxf91795" revision="5959508097a5cdf256c10f0c30bb558903411afe" upstream="MICRSE-2025-Add-ELE-demo"/>
+  <project name="meta-nxp-demo-experience" path="sources/meta-nxp-demo-experience" remote="nxf91795" revision="d5e0d49ed9fb6b15ea1f7bee56bea6c1eb0946e8" upstream="MICRSE-2025-Add-ELE-demo"/>
 
 </manifest>
