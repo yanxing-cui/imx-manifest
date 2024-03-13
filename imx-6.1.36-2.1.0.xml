@@ -19,6 +19,7 @@
   <project name="poky" path="sources/poky" remote="yocto" revision="0a98281d37b0bd8dc1548c390216cb3978e36e0e" upstream="mickledore"/>
   <project name="meta-openembedded" path="sources/meta-openembedded" remote="oe" revision="75cf318cef3b4ee81fad2782cf063ecd69ba8842" upstream="mickledore"/>
   <project name="meta-clang" path="sources/meta-clang" remote="kraj" revision="af4dcba009ba98250315520f3003fde4ee164cce" upstream="mickledore"/>
+  <project name="meta-selinux" path="sources/meta-selinux" remote="yocto" revision="bd3902cb9351c37d8e348abcd95c83d267c0a106" upstream="mickledore"/>
 
   <project name="fsl-community-bsp-base" path="sources/base" remote="community" revision="60f79f7af60537146298560079ae603260f0bd14" upstream="master">
     <linkfile dest="README" src="README"/>
